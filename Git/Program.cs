@@ -2,3 +2,5 @@
 
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Extra stuff");
+
+Console.WriteLine("Second branch");
