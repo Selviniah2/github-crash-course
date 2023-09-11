@@ -5,3 +5,5 @@ Console.WriteLine("Extra stuff");
 Console.WriteLine("Second branch");
 Console.WriteLine("A new branch has been added. It's name is feat-section");
 Console.WriteLine("This is my second branch");
+
+Console.WriteLine("New change for push");

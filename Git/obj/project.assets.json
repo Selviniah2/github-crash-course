@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\xqwys\\RiderProjects\\Git\\Git\\Git.csproj",
+      "projectUniqueName": "C:\\Users\\xqwys\\Desktop\\sa\\second demo\\git-demo2\\Git\\Git.csproj",
       "projectName": "Git",
-      "projectPath": "C:\\Users\\xqwys\\RiderProjects\\Git\\Git\\Git.csproj",
+      "projectPath": "C:\\Users\\xqwys\\Desktop\\sa\\second demo\\git-demo2\\Git\\Git.csproj",
       "packagesPath": "C:\\Users\\xqwys\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\xqwys\\RiderProjects\\Git\\Git\\obj\\",
+      "outputPath": "C:\\Users\\xqwys\\Desktop\\sa\\second demo\\git-demo2\\Git\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\xqwys\\AppData\\Roaming\\NuGet\\NuGet.Config",
